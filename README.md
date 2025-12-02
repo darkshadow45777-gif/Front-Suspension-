@@ -3,4 +3,4 @@ A functional front suspension with steering, the wheels are unpowered I have pro
 
 I have also provided pictures of 3 assemblies that I made in FreeCad, note they are all interconnected with on another, and I couldn't fit them all onto one assembly due to the limitations of the software I'm using.
 
-Note I have attached some Cad Files as evidence in a sperate branch of this repository.
+Note I have attached some Cad Files as aditional evidence in a sperate branch of this repository.
